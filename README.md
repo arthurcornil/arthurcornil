@@ -6,7 +6,7 @@ I am a curious developer who is always seeking new challenges. Even though I am 
 
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [arthur.cornil@proton.me](mailto:arthur.cornil@proton.me)
-*   🧠  I'm learning Laravel
+*   🧠  I'm learning Threlte.js
 *   🤝  I'm open to collaborating on any nice project
   ### Skills 
 <p align="left">
