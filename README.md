@@ -2,8 +2,6 @@ Hi 👋,
 My name is Arthur
 ==============================================================================================================================
 
-I am a curious developer who is always seeking new challenges. Even though I am currently working as a web dev, I am interested in low level stuff a lot too.
-
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [arthur.cornil@proton.me](mailto:arthur.cornil@proton.me)
 *   🧠  I'm learning Threlte.js
