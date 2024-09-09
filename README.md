@@ -4,7 +4,7 @@ My name is Arthur
 
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [arthur.cornil@proton.me](mailto:arthur.cornil@proton.me)
-*   🧠  I'm learning Threlte.js
+*   🛠️  I'm currently working on [troopflow](https://www.troopflow.com)
 *   🤝  I'm open to collaborating on any nice open source project
                     
 
