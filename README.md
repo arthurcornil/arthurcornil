@@ -5,7 +5,6 @@ My name is Arthur
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [arthur.cornil@proton.me](mailto:arthur.cornil@proton.me)
 *   🛠️  I'm currently building [troopflow](https://www.troopflow.com), a scout group managing platform
-*   🤝  I'm open to collaborating on any nice open source project
                     
 
 <!--
