@@ -5,7 +5,7 @@ My name is Arthur
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [arthur@buildthe.world](mailto:arthur@buildthe.world)
 *   🛠️  I'm currently building [troopflow](https://www.troopflow.com), a scout group managing platform
-                    
+*   📚  I'm completing the 42 School cursus; You'll find some 42 projects in my public repos.                    
 
 <!--
 **arthurcornil/arthurcornil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
